@@ -8,11 +8,19 @@
   },
   "types": "./types/vuex-store-plugins.d.ts",
   "author": "tianfanfan",
+  "homepage": "https://github.com/tianfanfan/vuex-store-plugins",
   "license": "ISC",
   "keywords": [
     "vuex",
     "vuex-store",
     "plugins",
     "action-count"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tianfanfan/vuex-store-plugins.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tianfanfan/vuex-store-plugins/issues"
+  }
 }
